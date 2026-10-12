@@ -34,6 +34,20 @@
       "id": "gc",
       "isExpanded": true,
       "name": "Channels"
+    },
+    {
+      "borderColor": "#000000",
+      "color": "#000000",
+      "id": "glang",
+      "isExpanded": true,
+      "name": "Language"
+    },
+    {
+      "id": "gsub",
+      "isExpanded": true,
+      "name": "Subtitle",
+      "borderColor": "#000000",
+      "color": "#000000"
     }
   ],
   "filters": [
@@ -368,27 +382,7 @@
       "tagStyle": "filled",
       "textColor": "#000000",
       "type": "filter"
-    }
-  ]
-}
-{
-  "groups": [
-    {
-      "borderColor": "#000000",
-      "color": "#000000",
-      "id": "glang",
-      "isExpanded": true,
-      "name": "Language"
     },
-    {
-      "id": "gsub",
-      "isExpanded": true,
-      "name": "Subtitle",
-      "borderColor": "#000000",
-      "color": "#000000"
-    }
-  ],
-  "filters": [
     {
       "id": "lang_english",
       "name": "English",
